@@ -1,3 +1,3 @@
 # Example Clojure Disco Site
 
-[see the documentation](https://docs.letsdisco.dev/tldr-guides/deploying-a-clojure-site)
+[See the documentation](https://docs.letsdisco.dev/deployment-guides/clojure)
